@@ -52,3 +52,11 @@
 [17:44:31] [User Authenticator #1/INFO]: UUID of player juancioz43 is 5492e887-2e1b-3327-9f80-a2329e985f9c
 [17:44:32] [Server thread/INFO]: juancioz43 joined the game
 [17:44:32] [Server thread/INFO]: juancioz43[/[0:0:0:0:0:0:0:1%0]:60314] logged in with entity id 561 at ([world]70.54565422918257, 65.0, 440.792930148991)
+[17:53:53] [Server thread/INFO]: juancioz43 lost connection: Timed out
+[17:53:53] [Server thread/INFO]: juancioz43 left the game
+[17:57:02] [User Authenticator #2/INFO]: UUID of player juancioz43 is 5492e887-2e1b-3327-9f80-a2329e985f9c
+[17:57:03] [Server thread/INFO]: juancioz43 joined the game
+[17:57:03] [Server thread/INFO]: juancioz43[/[0:0:0:0:0:0:0:1%0]:44880] logged in with entity id 1456 at ([world]63.30000001192093, 63.0, 436.69999998807907)
+[17:57:09] [Server thread/INFO]: juancioz43 issued server command: /rtp
+[17:57:44] [Server thread/INFO]: juancioz43 lost connection: Timed out
+[17:57:44] [Server thread/INFO]: juancioz43 left the game
